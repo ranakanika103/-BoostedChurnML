@@ -74,8 +74,8 @@ CustomerChurnProject/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
 ├── data/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
 │ └── customer_churn_dataset.csv &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
 |
-|── churn_model_training.ipynb
-└── README.md
+|── churn_model_training.ipynb&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
+└── README.md&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
 
 ---
 
