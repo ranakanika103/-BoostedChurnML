@@ -70,10 +70,9 @@ In this project, multiple **boosting models** are trained and optimized to accur
 ## 📁 Project Structure
 
 CustomerChurnProject/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
-│
 ├── data/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
-│ └── customer_churn_dataset.csv &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
-|
+│      └── customer_churn_dataset.csv &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
+| <br>
 |── churn_model_training.ipynb&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
 └── README.md&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
 
